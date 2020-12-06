@@ -7,4 +7,5 @@ error*.jpg
 screenshot_*.jpg
 downloads_*
 *_lang_*.feature
+*__*
 *__ignore*
